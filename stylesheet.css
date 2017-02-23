@@ -1,0 +1,35 @@
+body {
+	background-color: rgb(104,187,285);
+}
+#header{
+	height: 100px;
+	background-color: white;
+}
+#container {
+	background-color: rgb(34,66,124);
+	margin-left: 10px;
+}
+#left-box {
+	float: left;
+	color: white;
+	background-color: rgb(9,30,45);
+	width: 300px;
+}
+#right-box {
+	margin-left: 10px;	
+}
+#expériences {
+	background-color: rgb(15,157,232)
+}
+li {
+	color: white;
+	width: 300px;
+}
+#footer {
+	height: 100px;
+	background-color: rgb(9,30,45);
+}
+#photo {
+	margin: 80px auto;
+	display: block;
+}
